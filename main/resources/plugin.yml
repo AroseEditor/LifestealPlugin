@@ -1,0 +1,14 @@
+name: Lifesteal
+version: 1.0
+main: me.iusem.lifesteal.LifestealPlugin
+api-version: 1.21
+author: iusem
+description: Lifesteal SMP plugin by iusem (Arose_Editor)
+
+commands:
+  withdraw:
+    description: Withdraw hearts into items
+    usage: /withdraw <amount>
+  revive:
+    description: Revive a banned player (requires Revival Beacon)
+    usage: /revive <player>
