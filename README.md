@@ -1,6 +1,8 @@
 # LifestealPlugin
 Lifesteal SMP Plugin
 
+Paper only 1.21 plugin!
+
 By iusem (Arose_Editor)
 
 🔥 Features
